@@ -1,0 +1,1 @@
+Create a chrome extension where you right click a linkedin post and it creates a highly-detailed prompt for sora 2 to make a hysterical video about the post. The idea is to troll the post author, so the video it creates must be funny.
