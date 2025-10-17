@@ -1,4 +1,4 @@
-<img width="1649" height="1759" alt="image" src="https://github.com/user-attachments/assets/ab5f897d-80f1-4ba5-8d70-3f05fa75341f" /># LinkedIn Sora 2 Troll Extension
+# LinkedIn Sora 2 Troll Extension
 
 ## Project Structure
 
